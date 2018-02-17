@@ -1,0 +1,54 @@
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Form1.resources
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Properties.Resources.resources
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.csproj.GenerateResource.Cache
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\bin\Debug\Proyecto de prueba.exe
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\bin\Debug\Proyecto de prueba.pdb
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.exe
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.pdb
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.csprojResolveAssemblyReference.cache
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.exe
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.pdb
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\bin\Debug\Proyecto de prueba.exe
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\bin\Debug\Proyecto de prueba.pdb
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.csprojResolveAssemblyReference.cache
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Form1.resources
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Properties.Resources.resources
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.csproj.GenerateResource.Cache
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\bin\Debug\ImagenLib.dll
+C:\Users\Jaime\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\bin\Debug\ImagenLib.pdb
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\bin\Debug\Proyecto de prueba.exe
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\bin\Debug\Proyecto de prueba.pdb
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\bin\Debug\ImagenLib.dll
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\bin\Debug\ImagenLib.pdb
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.csprojResolveAssemblyReference.cache
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Form1.resources
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Properties.Resources.resources
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.csproj.GenerateResource.Cache
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.exe
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.pdb
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Salir.resources
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.ImagenInfo.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.exe
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\Proyecto de prueba.exe
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\Proyecto de prueba.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\ImagenLib.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\ImagenLib.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.csprojResolveAssemblyReference.cache
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.ImagenInfo.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Properties.Resources.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Salir.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto de prueba.csproj.GenerateResource.Cache
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Intensidad.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Marco.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Iluminacion.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Presentacion.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Tiempo.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Acercade.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\Gestiondata.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\Gestiondata.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.PantallaCarga.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.DBForm.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Cortar.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.InsertarTexto.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Debug\Proyecto_de_prueba.Dibujo.resources

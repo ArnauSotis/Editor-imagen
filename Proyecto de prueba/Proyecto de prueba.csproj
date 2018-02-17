@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{42302E60-4F91-43FA-A629-FF0D12F68145}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyecto_de_prueba</RootNamespace>
+    <AssemblyName>Proyecto de prueba</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Proyecto_de_prueba.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acercade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acercade.Designer.cs">
+      <DependentUpon>Acercade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cortar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cortar.Designer.cs">
+      <DependentUpon>Cortar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBForm.Designer.cs">
+      <DependentUpon>DBForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dibujo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dibujo.Designer.cs">
+      <DependentUpon>Dibujo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertarTexto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertarTexto.Designer.cs">
+      <DependentUpon>InsertarTexto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaCarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>PantallaCarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iluminacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iluminacion.Designer.cs">
+      <DependentUpon>Iluminacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImagenInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImagenInfo.Designer.cs">
+      <DependentUpon>ImagenInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Intensidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intensidad.Designer.cs">
+      <DependentUpon>Intensidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marco.Designer.cs">
+      <DependentUpon>Marco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion.Designer.cs">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salir.Designer.cs">
+      <DependentUpon>Salir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tiempo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiempo.Designer.cs">
+      <DependentUpon>Tiempo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Acercade.resx">
+      <DependentUpon>Acercade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cortar.resx">
+      <DependentUpon>Cortar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBForm.resx">
+      <DependentUpon>DBForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dibujo.resx">
+      <DependentUpon>Dibujo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iluminacion.resx">
+      <DependentUpon>Iluminacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImagenInfo.resx">
+      <DependentUpon>ImagenInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertarTexto.resx">
+      <DependentUpon>InsertarTexto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intensidad.resx">
+      <DependentUpon>Intensidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marco.resx">
+      <DependentUpon>Marco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaCarga.resx">
+      <DependentUpon>PantallaCarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion.resx">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Salir.resx">
+      <DependentUpon>Salir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiempo.resx">
+      <DependentUpon>Tiempo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Gestiondata\Gestiondata.csproj">
+      <Project>{05A119A2-FD8A-407F-B8A9-658103972215}</Project>
+      <Name>Gestiondata</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ImagenLib\ImagenLib.csproj">
+      <Project>{C553DEE9-6CF1-462D-B6CD-BC3FAF19AC07}</Project>
+      <Name>ImagenLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

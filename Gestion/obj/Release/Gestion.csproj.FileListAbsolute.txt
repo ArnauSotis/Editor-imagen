@@ -1,0 +1,5 @@
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\bin\Release\Gestion.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\bin\Release\Gestion.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\obj\Release\Gestion.csprojResolveAssemblyReference.cache
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\obj\Release\Gestion.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\obj\Release\Gestion.pdb

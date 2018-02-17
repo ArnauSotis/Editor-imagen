@@ -1,0 +1,6 @@
+C:\Users\Arnau\Desktop\PROYECTOPP\DBGestion\bin\Debug\MyDatabase.sdf
+C:\Users\Arnau\Desktop\PROYECTOPP\DBGestion\bin\Debug\DBGestion.dll.config
+C:\Users\Arnau\Desktop\PROYECTOPP\DBGestion\bin\Debug\DBGestion.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\DBGestion\bin\Debug\DBGestion.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\DBGestion\obj\Debug\DBGestion.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\DBGestion\obj\Debug\DBGestion.pdb

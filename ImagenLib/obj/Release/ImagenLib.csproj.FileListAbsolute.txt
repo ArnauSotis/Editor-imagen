@@ -1,0 +1,13 @@
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\ImagenLib\bin\Release\ImagenLib.dll
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\ImagenLib\bin\Release\ImagenLib.pdb
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\ImagenLib\obj\Release\ImagenLib.dll
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\ImagenLib\obj\Release\ImagenLib.pdb
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\ImagenLib\bin\Release\ImagenLib.dll
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\ImagenLib\bin\Release\ImagenLib.pdb
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\ImagenLib\obj\Release\ImagenLib.dll
+C:\Users\Arnau\Desktop\Proyecto 0 orientado a objetos - A\ImagenLib\obj\Release\ImagenLib.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\ImagenLib\obj\Release\ImagenLib.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\ImagenLib\obj\Release\ImagenLib.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\ImagenLib\obj\Release\ImagenLib.csprojResolveAssemblyReference.cache

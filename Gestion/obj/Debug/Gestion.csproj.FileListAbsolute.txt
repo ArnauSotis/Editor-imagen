@@ -1,0 +1,4 @@
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\bin\Debug\Gestion.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\bin\Debug\Gestion.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\obj\Debug\Gestion.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestion\obj\Debug\Gestion.pdb

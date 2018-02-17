@@ -1,0 +1,7 @@
+C:\Users\Arnau\Desktop\PROYECTOPP\ProyectoDB\bin\Debug\MyDatabase.sdf
+C:\Users\Arnau\Desktop\PROYECTOPP\ProyectoDB\bin\Debug\ProyectoDB.dll.config
+C:\Users\Arnau\Desktop\PROYECTOPP\ProyectoDB\bin\Debug\ProyectoDB.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\ProyectoDB\bin\Debug\ProyectoDB.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\ProyectoDB\obj\x86\Debug\ProyectoDB.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\ProyectoDB\obj\x86\Debug\ProyectoDB.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\ProyectoDB\obj\x86\Debug\ProyectoDB.csprojResolveAssemblyReference.cache

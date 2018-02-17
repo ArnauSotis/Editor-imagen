@@ -1,0 +1,5 @@
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestiondata\bin\Debug\Gestiondata.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestiondata\bin\Debug\Gestiondata.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestiondata\obj\Debug\Gestiondata.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestiondata\obj\Debug\Gestiondata.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Gestiondata\obj\Debug\Gestiondata.csprojResolveAssemblyReference.cache

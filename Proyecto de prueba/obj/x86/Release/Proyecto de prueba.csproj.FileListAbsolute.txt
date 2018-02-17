@@ -1,0 +1,19 @@
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Form1.resources
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Properties.Resources.resources
+C:\Users\Arnau\documents\visual studio 2010\Projects\Proyecto 0 orientado a objetos\Proyecto de prueba\obj\x86\Release\Proyecto de prueba.csproj.GenerateResource.Cache
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\Proyecto de prueba.exe
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\Proyecto de prueba.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\ImagenLib.dll
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\bin\Debug\ImagenLib.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto de prueba.csprojResolveAssemblyReference.cache
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Form1.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.ImagenInfo.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Properties.Resources.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Salir.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto de prueba.csproj.GenerateResource.Cache
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto de prueba.exe
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto de prueba.pdb
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Intensidad.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Marco.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Iluminacion.resources
+C:\Users\Arnau\Desktop\PROYECTOPP\Proyecto de prueba\obj\x86\Release\Proyecto_de_prueba.Presentacion.resources
